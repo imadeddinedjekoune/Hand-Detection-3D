@@ -15,8 +15,6 @@ My project combines computer vision with 3D modeling and real-time 3D rendering 
 - [Contact](#contact)
 
 ## Introduction
-![Capture3](https://github.com/imadeddinedjekoune/Hand-Detection-3D/assets/75379150/c4abf6f3-6c9e-4a57-b90f-8fd6a818179d)
-![Capture](https://github.com/imadeddinedjekoune/Hand-Detection-3D/assets/75379150/adfe64fa-02a0-4bf2-98fc-6fd773819f13)
 
 This project aims to create a compelling and realistic virtual hand that follows the movements of a user's real hand. It integrates several key technologies, including computer vision, 3D modeling, texturing, and real-time rendering. By combining these elements, we've achieved a highly immersive and interactive experience.
 
