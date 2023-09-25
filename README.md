@@ -15,6 +15,8 @@ My project combines computer vision with 3D modeling and real-time 3D rendering 
 - [Contact](#contact)
 
 ## Introduction
+![Capture3](https://github.com/imadeddinedjekoune/Hand-Detection-3D/assets/75379150/c4abf6f3-6c9e-4a57-b90f-8fd6a818179d)
+![Capture](https://github.com/imadeddinedjekoune/Hand-Detection-3D/assets/75379150/adfe64fa-02a0-4bf2-98fc-6fd773819f13)
 
 This project aims to create a compelling and realistic virtual hand that follows the movements of a user's real hand. It integrates several key technologies, including computer vision, 3D modeling, texturing, and real-time rendering. By combining these elements, we've achieved a highly immersive and interactive experience.
 
@@ -29,8 +31,8 @@ The tracking model identifies key hand landmarks, resulting in 20 data points re
 3D Modeling and Rigging (Blender):
 
 <p align="center">
-  <img src="https://github.com/imadeddinedjekoune/AR-Hand-Detection/assets/75379150/13a2d84e-b2d9-4094-9d41-23c7687976af" width="400"/>
-  <img src="https://github.com/imadeddinedjekoune/AR-Hand-Detection/assets/75379150/76ec1003-a7f6-4cc3-a96b-2834500b9766" width="400"/>
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/75379150/270474488-c4abf6f3-6c9e-4a57-b90f-8fd6a818179d.PNG" width="400"/>
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/75379150/270474481-adfe64fa-02a0-4bf2-98fc-6fd773819f13.PNG" width="400"/>
 </p>
 
 To create a realistic 3D hand model, we utilize Blender, a popular 3D modeling software. In Blender, we model, texture, and rig a hand mesh to match the tracked hand landmarks from the computer vision model.
